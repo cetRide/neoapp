@@ -17,5 +17,9 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+ Tasks:
+ 1. Add a text box - changes the neon text in realtime
+ 2. Add a select option that allows a user to change the font - you can have any two fonts.
+ 3. Add a power on button - basically turns off the shadow
+ 
+ URL : https://cryptic-ravine-11295.herokuapp.com/
